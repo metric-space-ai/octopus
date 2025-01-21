@@ -10,3 +10,8 @@ Octopus Software is made from particular parts:
 - Octopus AI Services
 - Octopus WASP Applications
 - Octopus HTML Applications
+
+### Technical documentation
+
+* [Running manually (for developers)](https://github.com/metric-space-ai/octopus_server/blob/dev/doc/for_developers.md)
+* [Running on Kubernetes](https://github.com/metric-space-ai/octopus_server/blob/dev/doc/kubernetes.md)
