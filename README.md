@@ -2,6 +2,8 @@
 
 Octopus Software provides its users with powerful enhancements to standard LLM platforms. It allows users to run customized AI models on top of standard LLM enhancing its features.
 
+![Octopus Client](https://github.com/metric-space-ai/octopus_server/blob/1e5a2df514f7ad32e6a20d1faa697207dcbb3ab5/data/screenshot.png)
+
 ## Octopus Software's high-level features
 
 Octopus Software is made from particular parts:
